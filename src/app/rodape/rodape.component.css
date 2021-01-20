@@ -1,17 +1,17 @@
-ul.social-network
+ul.social-network /*Deixar  sem bolinhas*/
 {
 list-style: none;
 padding:0 ;
 }
 
-ul.social-network li
+ul.social-network li /*Deixar em linhas*/
 {
     display: inline;
     margin: 0;
     padding: 5px;
 }
 
-.fa
+.fa /*Mexer no geral, todos iguais, mesma cor padrão, para fazer diferente, fazendo classes diferentes.*/
 {
     font-size: 35pt;
     color: white;

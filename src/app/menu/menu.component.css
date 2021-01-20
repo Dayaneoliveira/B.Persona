@@ -1,9 +1,9 @@
 .fs-16
 {
-    font-size:16pt;
+    font-size:16pt; /*o modelo da letra muda o tamanho*/
 }
 
 a
 {
-    cursor: pointer;
-}
+    cursor: pointer;  
+} /*faz o mouse virar uma mãozinha*/
